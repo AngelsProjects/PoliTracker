@@ -8,7 +8,7 @@ using Android.Gms.Maps.Model;
 
 namespace PoliTracker
 {
-    [Activity(Label = "@string/app_name")]
+    [Activity(Theme = "@style/Theme.MyTheme", Label = "@string/app_name")]
     public class MainActivity : AppCompatActivity, IOnMapReadyCallback
     {
         static readonly string TAG = "X:" + typeof(MainActivity).Name;
@@ -31,12 +31,16 @@ namespace PoliTracker
         }
         public void OnMapReady(GoogleMap googleMap)
         {
+
+
+          //  var position = await locator.GetPositionAsync(timeoutMilliseconds: 10000);
             GMap = googleMap;
             LatLng latlng = new LatLng(Convert.ToDouble(13.0291), Convert.ToDouble(80.2083));
             CameraUpdate camera = CameraUpdateFactory.NewLatLngZoom(latlng, 15);
             GMap.MoveCamera(camera);
             MarkerOptions options = new MarkerOptions().SetPosition(latlng).SetTitle("Chennai");
             GMap.AddMarker(options);
+          //  GMap.setMyLocationEnabled(true);
         }
     }
 }

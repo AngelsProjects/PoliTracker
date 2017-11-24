@@ -2624,6 +2624,9 @@ namespace PoliTracker
 			// aapt resource value: 0x7f060010
 			public const int common_signin_button_text_long = 2131099664;
 			
+			// aapt resource value: 0x7f060033
+			public const int google_maps_key = 2131099699;
+			
 			// aapt resource value: 0x7f060024
 			public const int search_menu_title = 2131099684;
 			

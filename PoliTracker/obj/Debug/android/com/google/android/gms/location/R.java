@@ -2396,6 +2396,7 @@ containing a value of this type.
         public static final int common_open_on_phone=0x7f06000e;
         public static final int common_signin_button_text=0x7f06000f;
         public static final int common_signin_button_text_long=0x7f060010;
+        public static final int google_maps_key=0x7f060033;
         public static final int search_menu_title=0x7f060024;
         public static final int status_bar_notification_info_overflow=0x7f060025;
     }

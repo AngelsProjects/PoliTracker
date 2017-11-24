@@ -1,1 +1,1 @@
-<resources><string name="app_name">PoliTracker</string></resources>
+<resources><string name="app_name">PoliTracker</string><string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD9CsibUn5dckiVdoa-wIUg5mAaKoK7zkQ</string></resources>
