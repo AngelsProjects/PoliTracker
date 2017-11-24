@@ -40,7 +40,9 @@ namespace PoliTracker
             GMap.MoveCamera(camera);
             MarkerOptions options = new MarkerOptions().SetPosition(latlng).SetTitle("Chennai");
             GMap.AddMarker(options);
-          //  GMap.setMyLocationEnabled(true);
+            //  GMap.setMyLocationEnabled(true);\
+            GMap.MyLocationEnabled = true;
+            GMap.UiSettings.MyLocationButtonEnabled = true;
         }
     }
 }

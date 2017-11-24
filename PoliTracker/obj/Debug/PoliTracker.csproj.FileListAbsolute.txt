@@ -63,3 +63,4 @@ D:\Documents\Visual Studio 2017\Projects\PoliTracker\PoliTracker\bin\Debug\PoliT
 D:\Documents\Visual Studio 2017\Projects\PoliTracker\PoliTracker\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
 D:\Documents\Visual Studio 2017\Projects\PoliTracker\PoliTracker\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
 D:\Documents\Visual Studio 2017\Projects\PoliTracker\PoliTracker\obj\Debug\android\assets\PoliTracker.dll.mdb
+D:\Documents\Visual Studio 2017\Projects\PoliTracker\PoliTracker\obj\Debug\PoliTracker.csprojResolveAssemblyReference.cache
