@@ -152,6 +152,7 @@
     <AndroidResource Include="Resources\drawable\splash_logo.png" />
     <AndroidResource Include="Resources\drawable\bg_police.jpg" />
     <AndroidResource Include="Resources\drawable\splash_screen.xml" />
+    <AndroidResource Include="Resources\values\maptype_data.xml" />
   </ItemGroup>
   <ItemGroup>
     <XamarinComponentReference Include="googleplayservices-location">
