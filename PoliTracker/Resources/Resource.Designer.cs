@@ -1888,11 +1888,11 @@ namespace PoliTracker
 			// aapt resource value: 0x7f020071
 			public const int notification_icon_background = 2130837617;
 			
-			// aapt resource value: 0x7f020076
-			public const int notification_template_icon_bg = 2130837622;
-			
 			// aapt resource value: 0x7f020077
-			public const int notification_template_icon_low_bg = 2130837623;
+			public const int notification_template_icon_bg = 2130837623;
+			
+			// aapt resource value: 0x7f020078
+			public const int notification_template_icon_low_bg = 2130837624;
 			
 			// aapt resource value: 0x7f020072
 			public const int notification_tile_bg = 2130837618;
@@ -1901,10 +1901,13 @@ namespace PoliTracker
 			public const int notify_panel_notification_icon_bg = 2130837619;
 			
 			// aapt resource value: 0x7f020074
-			public const int splash_logo = 2130837620;
+			public const int poli_opt = 2130837620;
 			
 			// aapt resource value: 0x7f020075
-			public const int splash_screen = 2130837621;
+			public const int splash_logo = 2130837621;
+			
+			// aapt resource value: 0x7f020076
+			public const int splash_screen = 2130837622;
 			
 			static Drawable()
 			{
