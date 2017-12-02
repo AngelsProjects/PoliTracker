@@ -1888,11 +1888,11 @@ namespace PoliTracker
 			// aapt resource value: 0x7f020071
 			public const int notification_icon_background = 2130837617;
 			
-			// aapt resource value: 0x7f020077
-			public const int notification_template_icon_bg = 2130837623;
-			
 			// aapt resource value: 0x7f020078
-			public const int notification_template_icon_low_bg = 2130837624;
+			public const int notification_template_icon_bg = 2130837624;
+			
+			// aapt resource value: 0x7f020079
+			public const int notification_template_icon_low_bg = 2130837625;
 			
 			// aapt resource value: 0x7f020072
 			public const int notification_tile_bg = 2130837618;
@@ -1904,10 +1904,13 @@ namespace PoliTracker
 			public const int poli_opt = 2130837620;
 			
 			// aapt resource value: 0x7f020075
-			public const int splash_logo = 2130837621;
+			public const int red_button = 2130837621;
 			
 			// aapt resource value: 0x7f020076
-			public const int splash_screen = 2130837622;
+			public const int splash_logo = 2130837622;
+			
+			// aapt resource value: 0x7f020077
+			public const int splash_screen = 2130837623;
 			
 			static Drawable()
 			{
@@ -1922,8 +1925,8 @@ namespace PoliTracker
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0b0066
-			public const int action0 = 2131427430;
+			// aapt resource value: 0x7f0b0067
+			public const int action0 = 2131427431;
 			
 			// aapt resource value: 0x7f0b0052
 			public const int action_bar = 2131427410;
@@ -1946,17 +1949,17 @@ namespace PoliTracker
 			// aapt resource value: 0x7f0b002f
 			public const int action_bar_title = 2131427375;
 			
-			// aapt resource value: 0x7f0b0063
-			public const int action_container = 2131427427;
+			// aapt resource value: 0x7f0b0064
+			public const int action_container = 2131427428;
 			
 			// aapt resource value: 0x7f0b0053
 			public const int action_context_bar = 2131427411;
 			
-			// aapt resource value: 0x7f0b006a
-			public const int action_divider = 2131427434;
+			// aapt resource value: 0x7f0b006b
+			public const int action_divider = 2131427435;
 			
-			// aapt resource value: 0x7f0b0064
-			public const int action_image = 2131427428;
+			// aapt resource value: 0x7f0b0065
+			public const int action_image = 2131427429;
 			
 			// aapt resource value: 0x7f0b0002
 			public const int action_menu_divider = 2131427330;
@@ -1973,11 +1976,11 @@ namespace PoliTracker
 			// aapt resource value: 0x7f0b0031
 			public const int action_mode_close_button = 2131427377;
 			
-			// aapt resource value: 0x7f0b0065
-			public const int action_text = 2131427429;
+			// aapt resource value: 0x7f0b0066
+			public const int action_text = 2131427430;
 			
-			// aapt resource value: 0x7f0b0073
-			public const int actions = 2131427443;
+			// aapt resource value: 0x7f0b0074
+			public const int actions = 2131427444;
 			
 			// aapt resource value: 0x7f0b0032
 			public const int activity_chooser_view_content = 2131427378;
@@ -2009,14 +2012,14 @@ namespace PoliTracker
 			// aapt resource value: 0x7f0b0039
 			public const int buttonPanel = 2131427385;
 			
-			// aapt resource value: 0x7f0b0067
-			public const int cancel_action = 2131427431;
+			// aapt resource value: 0x7f0b0068
+			public const int cancel_action = 2131427432;
 			
 			// aapt resource value: 0x7f0b0049
 			public const int checkbox = 2131427401;
 			
-			// aapt resource value: 0x7f0b006f
-			public const int chronometer = 2131427439;
+			// aapt resource value: 0x7f0b0070
+			public const int chronometer = 2131427440;
 			
 			// aapt resource value: 0x7f0b0029
 			public const int collapseActionView = 2131427369;
@@ -2045,11 +2048,14 @@ namespace PoliTracker
 			// aapt resource value: 0x7f0b0054
 			public const int edit_query = 2131427412;
 			
+			// aapt resource value: 0x7f0b0063
+			public const int emergencia = 2131427427;
+			
 			// aapt resource value: 0x7f0b0026
 			public const int end = 2131427366;
 			
-			// aapt resource value: 0x7f0b0079
-			public const int end_padder = 2131427449;
+			// aapt resource value: 0x7f0b007a
+			public const int end_padder = 2131427450;
 			
 			// aapt resource value: 0x7f0b0033
 			public const int expand_activities_button = 2131427379;
@@ -2072,8 +2078,8 @@ namespace PoliTracker
 			// aapt resource value: 0x7f0b0037
 			public const int icon = 2131427383;
 			
-			// aapt resource value: 0x7f0b0074
-			public const int icon_group = 2131427444;
+			// aapt resource value: 0x7f0b0075
+			public const int icon_group = 2131427445;
 			
 			// aapt resource value: 0x7f0b0010
 			public const int icon_only = 2131427344;
@@ -2084,17 +2090,17 @@ namespace PoliTracker
 			// aapt resource value: 0x7f0b0034
 			public const int image = 2131427380;
 			
-			// aapt resource value: 0x7f0b0070
-			public const int info = 2131427440;
+			// aapt resource value: 0x7f0b0071
+			public const int info = 2131427441;
 			
 			// aapt resource value: 0x7f0b0015
 			public const int light = 2131427349;
 			
-			// aapt resource value: 0x7f0b0075
-			public const int line1 = 2131427445;
+			// aapt resource value: 0x7f0b0076
+			public const int line1 = 2131427446;
 			
-			// aapt resource value: 0x7f0b0077
-			public const int line3 = 2131427447;
+			// aapt resource value: 0x7f0b0078
+			public const int line3 = 2131427448;
 			
 			// aapt resource value: 0x7f0b0016
 			public const int listMode = 2131427350;
@@ -2102,8 +2108,8 @@ namespace PoliTracker
 			// aapt resource value: 0x7f0b0036
 			public const int list_item = 2131427382;
 			
-			// aapt resource value: 0x7f0b0069
-			public const int media_actions = 2131427433;
+			// aapt resource value: 0x7f0b006a
+			public const int media_actions = 2131427434;
 			
 			// aapt resource value: 0x7f0b0027
 			public const int middle = 2131427367;
@@ -2120,14 +2126,14 @@ namespace PoliTracker
 			// aapt resource value: 0x7f0b000b
 			public const int normal = 2131427339;
 			
-			// aapt resource value: 0x7f0b0072
-			public const int notification_background = 2131427442;
+			// aapt resource value: 0x7f0b0073
+			public const int notification_background = 2131427443;
+			
+			// aapt resource value: 0x7f0b006d
+			public const int notification_main_column = 2131427437;
 			
 			// aapt resource value: 0x7f0b006c
-			public const int notification_main_column = 2131427436;
-			
-			// aapt resource value: 0x7f0b006b
-			public const int notification_main_column_container = 2131427435;
+			public const int notification_main_column_container = 2131427436;
 			
 			// aapt resource value: 0x7f0b003b
 			public const int parentPanel = 2131427387;
@@ -2141,11 +2147,11 @@ namespace PoliTracker
 			// aapt resource value: 0x7f0b004b
 			public const int radio = 2131427403;
 			
-			// aapt resource value: 0x7f0b0071
-			public const int right_icon = 2131427441;
+			// aapt resource value: 0x7f0b0072
+			public const int right_icon = 2131427442;
 			
-			// aapt resource value: 0x7f0b006d
-			public const int right_side = 2131427437;
+			// aapt resource value: 0x7f0b006e
+			public const int right_side = 2131427438;
 			
 			// aapt resource value: 0x7f0b000c
 			public const int satellite = 2131427340;
@@ -2228,8 +2234,8 @@ namespace PoliTracker
 			// aapt resource value: 0x7f0b0011
 			public const int standard = 2131427345;
 			
-			// aapt resource value: 0x7f0b0068
-			public const int status_bar_latest_event_content = 2131427432;
+			// aapt resource value: 0x7f0b0069
+			public const int status_bar_latest_event_content = 2131427433;
 			
 			// aapt resource value: 0x7f0b004c
 			public const int submenuarrow = 2131427404;
@@ -2243,11 +2249,11 @@ namespace PoliTracker
 			// aapt resource value: 0x7f0b000d
 			public const int terrain = 2131427341;
 			
-			// aapt resource value: 0x7f0b0078
-			public const int text = 2131427448;
+			// aapt resource value: 0x7f0b0079
+			public const int text = 2131427449;
 			
-			// aapt resource value: 0x7f0b0076
-			public const int text2 = 2131427446;
+			// aapt resource value: 0x7f0b0077
+			public const int text2 = 2131427447;
 			
 			// aapt resource value: 0x7f0b0040
 			public const int textSpacerNoButtons = 2131427392;
@@ -2255,8 +2261,8 @@ namespace PoliTracker
 			// aapt resource value: 0x7f0b003f
 			public const int textSpacerNoTitle = 2131427391;
 			
-			// aapt resource value: 0x7f0b006e
-			public const int time = 2131427438;
+			// aapt resource value: 0x7f0b006f
+			public const int time = 2131427439;
 			
 			// aapt resource value: 0x7f0b0038
 			public const int title = 2131427384;
